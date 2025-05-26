@@ -57,7 +57,7 @@ Este repositorio contiene el informe de pruebas funcionales manuales ejecutadas 
 
 ## Archivos incluidos
 
-- Informe-SauceDemo-Pruebas-QA.pdf` → Informe completo con resultados y observaciones → Capturas de pantalla de cada ejecución
+Informe: saucedemo-pruebas-qa.pdf` → Informe completo con resultados y observaciones → Capturas de pantalla de cada ejecución
 
 
 
