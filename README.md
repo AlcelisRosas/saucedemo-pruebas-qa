@@ -1,4 +1,4 @@
-# saucedemo-pruebas-qa
+# Saucedemo-pruebas-qa
 Pruebas funcionales manuales con casos y resultados para el sitio SauceDemo
 
 
@@ -18,7 +18,7 @@ Este repositorio contiene el informe de pruebas funcionales manuales ejecutadas 
 - **Entorno:** Navegador Chrome – Web  
 - **Versión de la App:** Demo pública de SauceDemo  
 
--
+
 
 ## Historia de usuario
 
@@ -35,9 +35,9 @@ Este repositorio contiene el informe de pruebas funcionales manuales ejecutadas 
 | TC003   | Finalizar compra                 | Passed |
 | TC004   | Login fallido                    | Passed |
 
----
 
-## 🐞 Incidentes encontrados
+
+## Incidentes encontrados
 
 | ID       | Descripción                                                                 | Severidad | Estado  |
 |----------|------------------------------------------------------------------------------|-----------|---------|
@@ -45,7 +45,7 @@ Este repositorio contiene el informe de pruebas funcionales manuales ejecutadas 
 
 ---
 
-## 📊 Métricas
+## Métricas
 
 - **Total de casos ejecutados:** 4  
 - **Casos exitosos:** 4  
@@ -55,13 +55,13 @@ Este repositorio contiene el informe de pruebas funcionales manuales ejecutadas 
 
 ---
 
-## 📎 Archivos incluidos
+## Archivos incluidos
 
 - Informe-SauceDemo-Pruebas-QA.pdf` → Informe completo con resultados y observaciones → Capturas de pantalla de cada ejecución
 
 
 
-## 📌 Conclusión
+## Conclusión
 
 Las pruebas fueron satisfactorias en los 4 escenarios planteados, validando funcionalidades clave como login, navegación, carrito de compras y finalización de pedidos. Se detectó una mejora visual pendiente en el mensaje de error para credenciales inválidas.
 
