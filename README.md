@@ -2,7 +2,7 @@
 Pruebas funcionales manuales con casos y resultados para el sitio SauceDemo
 
 
-# 🧪 SauceDemo – Pruebas QA Manual Jr
+#  SauceDemo – Pruebas QA Manual Jr
 
 Este repositorio contiene el informe de pruebas funcionales manuales ejecutadas sobre el sitio de práctica [SauceDemo](https://www.saucedemo.com/) como parte del entrenamiento de pruebas QA Manual nivel junior.
 
